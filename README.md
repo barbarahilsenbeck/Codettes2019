@@ -3,7 +3,7 @@
 **Image Classification**
 
 Download the notebook:
-wget <https://github.com/barbarahilsenbeck/Codettes2019>
+<https://github.com/barbarahilsenbeck/Codettes2019>
 
 Download data:
 wget <https://s3.amazonaws.com/img-datasets/mnist.npz>
