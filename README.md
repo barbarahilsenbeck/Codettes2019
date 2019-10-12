@@ -1,17 +1,21 @@
-# Codettes2019
+\# Codettes2019
 
+**Image Classification**
+
+Download the notebook:
+wget <https://github.com/barbarahilsenbeck/Codettes2019>
+
+Download data:
+wget <https://s3.amazonaws.com/img-datasets/mnist.npz>
 
 **Object Detection**
 
-Download data:
-https://s3.amazonaws.com/img-datasets/mnist.npz
-
 webpage: 
-https://pjreddie.com/darknet/yolo/
+<https://pjreddie.com/darknet/yolo/>
 
-git clone https://github.com/pjreddie/darknet
+git clone <https://github.com/pjreddie/darknet>
 
-wget https://pjreddie.com/media/files/yolov3-tiny.weights
+wget <https://pjreddie.com/media/files/yolov3-tiny.weights>
 cd darknet
 
 ./darknet detect cfg/yolov3-tiny.cfg yolov3-tiny.weights data/dog.jpg
