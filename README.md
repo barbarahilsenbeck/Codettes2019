@@ -1,16 +1,17 @@
-\# Codettes2019
+<h1>Codettes2019</h1>
 
-**Image Classification**
+**Image Classification with LeNet5**
 
 Download the notebook:
 <https://github.com/barbarahilsenbeck/Codettes2019>
 
 Download data:
+cd Codettes2019
 wget <https://s3.amazonaws.com/img-datasets/mnist.npz>
 
-**Object Detection**
+**Object Detection with YOLO**
 
-webpage: 
+Check out the video in the webpage: 
 <https://pjreddie.com/darknet/yolo/>
 
 git clone <https://github.com/pjreddie/darknet>
